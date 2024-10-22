@@ -5,7 +5,9 @@ With experience in data analysis, software development, blockchain technology, a
 
 🛠️ Skills & Technologies
 Programming Languages: Python, C, C++, SQL, JavaScript, R, HTML/CSS, Solidity
+
 Frameworks & Tools: MERN Stack (MongoDB, Express, React, Node.js), Power BI, Tableau, AutoCAD, Arduino, Remix IDE
+
 Database Systems: MySQL, MongoDB, SAP ERP
 
 💼 Professional Experience
