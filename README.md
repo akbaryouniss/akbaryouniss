@@ -1,8 +1,7 @@
-👋 Hello! I'm Akbar Younis
-Data Analyst | Software Developer | Blockchain Enthusiast
+👋 Hello! I'm Akbar, 
+
 Currently pursuing a B.Sc. in Computer Science from the University of South Florida (Graduation: May 2026). 
 With experience in data analysis, software development, blockchain technology, and a passion for solving complex problems, I aim to build impactful solutions that optimize user experiences and enhance business processes.
-
 
 🛠️ Skills & Technologies
 Programming Languages: Python, C, C++, SQL, JavaScript, R, HTML/CSS, Solidity
